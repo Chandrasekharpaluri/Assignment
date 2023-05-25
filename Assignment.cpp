@@ -1,10 +1,10 @@
-# Assignment solution
+//Assignment solution
 
-I tried the code in two different ways
+/*I tried the code in two different ways
 in fst code I gave user input for one code
-In second code I took the input by default
+In second code I took the input by default*/
 
-*******
+//solution
 
 #include <iostream>
 #include <vector>
@@ -46,7 +46,7 @@ cout << maximalNetworkRank(n, cables) << endl;
 return 0;
 }
 
-*******
+//
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -88,7 +88,7 @@ cout << ans(graph);
 return 0;
 }
 
-input given
+//input given
 
 n=4
 
@@ -101,6 +101,6 @@ n=4
 1
 3
 
-output received
+//output received
 
 4.
